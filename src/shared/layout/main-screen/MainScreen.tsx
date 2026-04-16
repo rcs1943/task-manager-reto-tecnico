@@ -22,7 +22,7 @@ const MainScreen = ({
   return (
     <SafeAreaView
       style={styles.container}
-      className="flex-1 bg-background dark:bg-background-dark gap-12 px-6"
+      className="flex-1 bg-[#F8F8FF] dark:bg-background-dark gap-10 px-6"
     >
       {children}
     </SafeAreaView>

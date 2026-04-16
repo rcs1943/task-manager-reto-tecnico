@@ -11,43 +11,31 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#FF656F",
+        primary: "#013D9A",
         secondary: "#3B83F7",
         background: {
-          DEFAULT: "#F8FBFD",
+          DEFAULT: "#F0F3FE",
           dark: "#212121",
         },
         secondaryBackground: {
-          DEFAULT: "#FFFEFE",
+          DEFAULT: "#E0E8FF",
           dark: "#1B1B1D",
         },
         headerColor: {
-          DEFAULT: "#0F162B",
-          dark: "",
-        },
-        subheaderColor: {
-          DEFAULT: "#474747",
+          DEFAULT: "#041A3D",
           dark: "",
         },
         textColor: {
-          DEFAULT: "#2D2D2D",
+          DEFAULT: "#424655",
           dark: "",
         },
         secondaryTextColor: {
-          DEFAULT: "#64748B",
+          DEFAULT: "#737784",
           dark: "",
         },
-        placeholder: "#94A3B8",
-        borderColor: {
-          DEFAULT: "#66757F",
-          dark: "",
-        },
-        secondaryBorderColor: {
-          DEFAULT: "#E5EBF2",
-          dark: "",
-        },
-        success: "#45AC4C",
-        danger: "#DC3545",
+        green: "#82F8BF",
+        red: "#FEDAD3",
+        blue: "#D6E3FF",
       },
     },
   },

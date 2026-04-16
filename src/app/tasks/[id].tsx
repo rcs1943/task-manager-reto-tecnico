@@ -1,12 +1,20 @@
 import { View, Text } from "react-native";
-import { useLocalSearchParams } from "expo-router";
+import { Stack, useLocalSearchParams } from "expo-router";
+import TaskDetail from "@/features/task-detail/TaskDetail";
 
-export default function TaskDetail() {
-  const { id } = useLocalSearchParams();
+export default () => {
+  const { id } = useLocalSearchParams<{ id: string }>();
 
   return (
-    <View>
-      <Text>Detalle de tarea {id}</Text>
-    </View>
+    <>
+      <Stack.Screen
+        options={{
+          headerTitle: "",
+          headerShown: true,
+          headerBackButtonDisplayMode: "minimal",
+        }}
+      />
+      <TaskDetail taskId={id} />
+    </>
   );
-}
+};
