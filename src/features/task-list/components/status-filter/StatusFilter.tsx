@@ -1,22 +1,19 @@
 import CustomLabel from "@/shared/components/custom-label/CustomLabel";
-import { useState } from "react";
+import { Status } from "@/shared/types/TaskIndicators";
 import { Pressable, ScrollView, Text, View } from "react-native";
 
-interface Status {
-  id: "all" | "pending" | "completed";
+interface StatusLabel {
+  id: Status;
   content: string;
 }
 
-const StatusFilter = () => {
-  const [statusFilter, setStatusFilter] = useState<
-    "all" | "pending" | "completed" | null
-  >("all");
+interface Props {
+  value: Status[];
+  onChange: (status: Status) => void;
+}
 
-  const STATUSES: Status[] = [
-    {
-      id: "all",
-      content: "TODO",
-    },
+const StatusFilter = ({ value, onChange }: Props) => {
+  const STATUSES: StatusLabel[] = [
     {
       id: "pending",
       content: "PENDIENTE",
@@ -27,8 +24,8 @@ const StatusFilter = () => {
     },
   ];
 
-  const handleStatus = (status: "all" | "pending" | "completed") => {
-    setStatusFilter(status);
+  const handleStatus = (status: Status) => {
+    onChange(status);
   };
 
   return (
@@ -44,7 +41,7 @@ const StatusFilter = () => {
             <CustomLabel
               key={status.id}
               content={status.content}
-              active={status.id === statusFilter}
+              active={value.includes(status.id)}
             />
           </Pressable>
         ))}

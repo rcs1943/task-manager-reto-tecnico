@@ -1,18 +1,18 @@
 import { useEffect, useState } from "react";
 import { TASKS_REPOSITORY } from "../implementations";
-import { Task } from "../entities/Task";
+import { useTaskStore } from "../stores/taskStore";
 
-type TasksHook = { data: Task[]; isLoading: boolean };
+type TasksHook = { isLoading: boolean };
 
-export function useTasks(): TasksHook {
-  const [tasks, setTasks] = useState<Task[]>([]);
+export function useLoadTasks(): TasksHook {
+  const taskStore = useTaskStore();
   const [isLoading, setIsLoading] = useState<boolean>(false);
 
   useEffect(() => {
-    // getTasks();
+    loadTasks();
   }, []);
 
-  async function getTasks() {
+  async function loadTasks() {
     setIsLoading(true);
     const { message, data } = await TASKS_REPOSITORY.getTasks();
 
@@ -23,7 +23,7 @@ export function useTasks(): TasksHook {
       return;
     }
 
-    setTasks(data.tasks);
+    taskStore.setTasks(data.tasks);
   }
-  return { data: tasks, isLoading };
+  return { isLoading };
 }

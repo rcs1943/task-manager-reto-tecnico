@@ -1,18 +1,19 @@
 import CustomLabel from "@/shared/components/custom-label/CustomLabel";
-import { useState } from "react";
+import { Priority } from "@/shared/types/TaskIndicators";
 import { Pressable, ScrollView, Text, View } from "react-native";
 
-interface Priority {
-  id: "high" | "medium" | "low";
+interface PriorityLabel {
+  id: Priority;
   content: string;
 }
 
-const PriorityFilter = () => {
-  const [priorityFilter, setPriorityFilter] = useState<
-    "high" | "medium" | "low" | null
-  >(null);
+interface Props {
+  value: Priority[];
+  onChange: (priority: Priority) => void;
+}
 
-  const PRIORITIES: Priority[] = [
+const PriorityFilter = ({ value, onChange }: Props) => {
+  const PRIORITIES: PriorityLabel[] = [
     {
       id: "high",
       content: "ALTA",
@@ -27,8 +28,8 @@ const PriorityFilter = () => {
     },
   ];
 
-  const handlePriority = (priority: "high" | "medium" | "low") => {
-    setPriorityFilter(priority);
+  const handlePriority = (priority: Priority) => {
+    onChange(priority);
   };
 
   return (
@@ -47,7 +48,7 @@ const PriorityFilter = () => {
             <CustomLabel
               key={priority.id}
               content={priority.content}
-              active={priority.id === priorityFilter}
+              active={value.includes(priority.id)}
             />
           </Pressable>
         ))}
