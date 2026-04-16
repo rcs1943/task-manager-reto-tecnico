@@ -1,17 +1,18 @@
 import { useEffect, useState } from "react";
 import { TASKS_REPOSITORY } from "../implementations";
+import { Task } from "../entities/Task";
 
-type TasksHook = { data: any[]; isLoading: boolean };
+type TasksHook = { data: Task[]; isLoading: boolean };
 
-export function useLines(): TasksHook {
-  const [tasks, setTasks] = useState<any[]>([]);
+export function useTasks(): TasksHook {
+  const [tasks, setTasks] = useState<Task[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(false);
 
   useEffect(() => {
-    getLines();
+    // getTasks();
   }, []);
 
-  async function getLines() {
+  async function getTasks() {
     setIsLoading(true);
     const { message, data } = await TASKS_REPOSITORY.getTasks();
 

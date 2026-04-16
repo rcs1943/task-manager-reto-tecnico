@@ -1,7 +1,8 @@
 import ApiResponse from "@/shared/axios/ApiResponse";
+import { Task } from "./entities/Task";
 
 export type GetTasksResponseData = {
-  tasks: any[];
+  tasks: Task[];
 };
 
 export default interface TasksRepository {
