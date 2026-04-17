@@ -1,0 +1,836 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\contracts\\operations\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\contracts\\operations\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\clientes\\queries\\getmenu\\getmenubyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\clientes\\queries\\getmenu\\getmenubyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\clientes\\queries\\getmenu\\getmenubyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\clientes\\queries\\getmenu\\getmenubyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\controllers\\operaciones\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\controllers\\operaciones\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\clientes\\queries\\vms\\menuvmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\clientes\\queries\\vms\\menuvmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\persistence\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\persistence\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\security\\policyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\security\\policyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.domain\\operaciones\\seguridadmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|solutionrelative:employees.domain\\operaciones\\seguridadmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\controllers\\operaciones\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\controllers\\operaciones\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\controllers\\operaciones\\dtos\\clientespagedrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\controllers\\operaciones\\dtos\\clientespagedrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.domain\\operaciones\\seguridadrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|solutionrelative:employees.domain\\operaciones\\seguridadrolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.domain\\operaciones\\seguridadrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|solutionrelative:employees.domain\\operaciones\\seguridadrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\personas\\commands\\updatepersona\\updatepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\personas\\commands\\updatepersona\\updatepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\personas\\commands\\deletepersona\\deletepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\personas\\commands\\deletepersona\\deletepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\contracts\\persistence\\operaciones\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\contracts\\persistence\\operaciones\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\persistence\\configurations\\seguridadusuarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\persistence\\configurations\\seguridadusuarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\persistence\\maindbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\persistence\\maindbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.domain\\operaciones\\seguridadusuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|solutionrelative:employees.domain\\operaciones\\seguridadusuariorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.domain\\operaciones\\seguridadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|solutionrelative:employees.domain\\operaciones\\seguridadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\employees.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\employees.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\clientes\\queries\\vms\\clientewithincludevmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\clientes\\queries\\vms\\clientewithincludevmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\clientes\\queries\\getallclienteslist\\getallclienteslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\clientes\\queries\\getallclienteslist\\getallclienteslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\features\\operaciones\\clientes\\queries\\getallclienteslist\\getallclienteslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\features\\operaciones\\clientes\\queries\\getallclienteslist\\getallclienteslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.application\\contracts\\persistence\\operaciones\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\contracts\\persistence\\operaciones\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.domain\\operaciones\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|solutionrelative:employees.domain\\operaciones\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\licenses\\licenses.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\licenses\\licenses.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\repositories\\operaciones\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\repositories\\operaciones\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.domain\\operaciones\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72282DFC-C72C-4A11-8FE5-C556A57A52D0}|Employees.Domain\\Employees.Domain.csproj|solutionrelative:employees.domain\\operaciones\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\data\\migrations\\20250825201520_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\data\\migrations\\20250825201520_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|Employees.API\\Employees.API.csproj|solutionrelative:employees.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\repositories\\operaciones\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\repositories\\operaciones\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\data\\migrations\\maindbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\data\\migrations\\maindbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\data\\migrations\\20251120075133_addseguridadmodule2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\data\\migrations\\20251120075133_addseguridadmodule2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\data\\migrations\\20251120070819_addseguridadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\data\\migrations\\20251120070819_addseguridadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\kenny\\source\\repos\\inmobiliaria-empleados\\employees.infrastructure\\data\\migrations\\20251120070113_addseguridadmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30774FA9-FAC4-4E15-8348-D5F0558D46ED}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\data\\migrations\\20251120070113_addseguridadmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\Operaciones\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Employees.API\\Controllers\\Operaciones\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\Operaciones\\ClienteController.cs",
+              "RelativeToolTip": "Employees.API\\Controllers\\Operaciones\\ClienteController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAiwK4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:36:32.65Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuVMResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\MenuVMResponse.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\MenuVMResponse.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\MenuVMResponse.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\MenuVMResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:06:13.085Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetMenuByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQuery.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQuery.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQuery.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:04:26.743Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Operations\\IMenuService.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Contracts\\Operations\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Operations\\IMenuService.cs",
+              "RelativeToolTip": "Employees.Application\\Contracts\\Operations\\IMenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:11:24.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Services\\MenuService.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Services\\MenuService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIAwwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:18:10.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employees.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employees.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:58:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetMenuByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQueryHandler.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetMenu\\GetMenuByUserQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:41:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Persistence\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Persistence\\MainDbContext.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Persistence\\MainDbContext.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Persistence\\MainDbContext.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowJ8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:30:59.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeguridadMenu.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadMenu.cs",
+              "RelativeDocumentMoniker": "Employees.Domain\\Operaciones\\SeguridadMenu.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadMenu.cs",
+              "RelativeToolTip": "Employees.Domain\\Operaciones\\SeguridadMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:40:50.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Security\\PolicyConfiguration.cs",
+              "RelativeDocumentMoniker": "Employees.API\\Security\\PolicyConfiguration.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Security\\PolicyConfiguration.cs",
+              "RelativeToolTip": "Employees.API\\Security\\PolicyConfiguration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:28:17.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Program.cs",
+              "RelativeDocumentMoniker": "Employees.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Program.cs",
+              "RelativeToolTip": "Employees.API\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:28:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\Operaciones\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Employees.API\\Controllers\\Operaciones\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\Operaciones\\PersonaController.cs",
+              "RelativeToolTip": "Employees.API\\Controllers\\Operaciones\\PersonaController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:44:43.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientesPagedRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\Operaciones\\Dtos\\ClientesPagedRequestDto.cs",
+              "RelativeDocumentMoniker": "Employees.API\\Controllers\\Operaciones\\Dtos\\ClientesPagedRequestDto.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Controllers\\Operaciones\\Dtos\\ClientesPagedRequestDto.cs",
+              "RelativeToolTip": "Employees.API\\Controllers\\Operaciones\\Dtos\\ClientesPagedRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:59:03.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeguridadRolMenu.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadRolMenu.cs",
+              "RelativeDocumentMoniker": "Employees.Domain\\Operaciones\\SeguridadRolMenu.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadRolMenu.cs",
+              "RelativeToolTip": "Employees.Domain\\Operaciones\\SeguridadRolMenu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:41:12.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeguridadRol.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadRol.cs",
+              "RelativeDocumentMoniker": "Employees.Domain\\Operaciones\\SeguridadRol.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadRol.cs",
+              "RelativeToolTip": "Employees.Domain\\Operaciones\\SeguridadRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:38:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeletePersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Personas\\Commands\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Personas\\Commands\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Personas\\Commands\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Personas\\Commands\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:24:58.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:25:47.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Persistence\\Operaciones\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Contracts\\Persistence\\Operaciones\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Persistence\\Operaciones\\IPersonaRepository.cs",
+              "RelativeToolTip": "Employees.Application\\Contracts\\Persistence\\Operaciones\\IPersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:00:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdatePersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Personas\\Commands\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Personas\\Commands\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Personas\\Commands\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Personas\\Commands\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:25:08.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeToolTip": "Employees.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:09:08.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\.env",
+              "RelativeDocumentMoniker": "Employees.API\\.env",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\.env",
+              "RelativeToolTip": "Employees.API\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-20T05:36:28.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Employees.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\appsettings.json",
+              "RelativeToolTip": "Employees.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T04:28:19.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SeguridadUsuarioConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Persistence\\Configurations\\SeguridadUsuarioConfig.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Persistence\\Configurations\\SeguridadUsuarioConfig.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Persistence\\Configurations\\SeguridadUsuarioConfig.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Persistence\\Configurations\\SeguridadUsuarioConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:05:54.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainDBContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Persistence\\MainDBContextFactory.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Persistence\\MainDBContextFactory.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Persistence\\MainDBContextFactory.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Persistence\\MainDBContextFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:47:40.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SeguridadUsuarioRol.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadUsuarioRol.cs",
+              "RelativeDocumentMoniker": "Employees.Domain\\Operaciones\\SeguridadUsuarioRol.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadUsuarioRol.cs",
+              "RelativeToolTip": "Employees.Domain\\Operaciones\\SeguridadUsuarioRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:40:12.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SeguridadUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadUsuario.cs",
+              "RelativeDocumentMoniker": "Employees.Domain\\Operaciones\\SeguridadUsuario.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\SeguridadUsuario.cs",
+              "RelativeToolTip": "Employees.Domain\\Operaciones\\SeguridadUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:22:07.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20251120075133_AddSeguridadModule2.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20251120075133_AddSeguridadModule2.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Data\\Migrations\\20251120075133_AddSeguridadModule2.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20251120075133_AddSeguridadModule2.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Data\\Migrations\\20251120075133_AddSeguridadModule2.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:51:33.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employees.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\kenny\\Source\\Repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Employees.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Employees.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\kenny\\Source\\Repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Employees.Infrastructure.csproj",
+              "RelativeToolTip": "Employees.Infrastructure\\Employees.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T06:58:39.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAllClientesListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQueryHandler.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQueryHandler.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQueryHandler.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:41:51.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClienteWithIncludeVmResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\ClienteWithIncludeVmResponse.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\ClienteWithIncludeVmResponse.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\ClienteWithIncludeVmResponse.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\Vms\\ClienteWithIncludeVmResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:42:20.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetAllClientesListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQuery.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQuery.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQuery.cs",
+              "RelativeToolTip": "Employees.Application\\Features\\Operaciones\\Clientes\\Queries\\GetAllClientesList\\GetAllClientesListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:41:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Persistence\\Operaciones\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\Contracts\\Persistence\\Operaciones\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Application\\Contracts\\Persistence\\Operaciones\\IClienteRepository.cs",
+              "RelativeToolTip": "Employees.Application\\Contracts\\Persistence\\Operaciones\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:00:33.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\Persona.cs",
+              "RelativeDocumentMoniker": "Employees.Domain\\Operaciones\\Persona.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\Persona.cs",
+              "RelativeToolTip": "Employees.Domain\\Operaciones\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:22:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Employees.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Employees.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T04:27:50.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\nlog.config",
+              "RelativeDocumentMoniker": "Employees.API\\nlog.config",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\nlog.config",
+              "RelativeToolTip": "Employees.API\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-20T04:44:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Employees.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Employees.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:28:16.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "licenses.txt",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Licenses\\licenses.txt",
+              "RelativeDocumentMoniker": "Employees.API\\Licenses\\licenses.txt",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\Licenses\\licenses.txt",
+              "RelativeToolTip": "Employees.API\\Licenses\\licenses.txt",
+              "ViewState": "AgIAAMECAAAAAAAAAAAgwNACAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-20T04:28:10.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20251120070819_AddSeguridadUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20251120070819_AddSeguridadUsuario.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Data\\Migrations\\20251120070819_AddSeguridadUsuario.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20251120070819_AddSeguridadUsuario.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Data\\Migrations\\20251120070819_AddSeguridadUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:08:19.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20251120070113_AddSeguridadModule.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20251120070113_AddSeguridadModule.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Data\\Migrations\\20251120070113_AddSeguridadModule.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20251120070113_AddSeguridadModule.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Data\\Migrations\\20251120070113_AddSeguridadModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:01:13.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\.env",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\.env",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\.env",
+              "RelativeToolTip": "Employees.Infrastructure\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-20T07:01:56.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:31:24.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\Operaciones\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Repositories\\Operaciones\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\Operaciones\\ClienteRepository.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Repositories\\Operaciones\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:31:08.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": ".env.example",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\.env.example",
+              "RelativeDocumentMoniker": "Employees.API\\.env.example",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\.env.example",
+              "RelativeToolTip": "Employees.API\\.env.example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-20T04:28:18.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\Cliente.cs",
+              "RelativeDocumentMoniker": "Employees.Domain\\Operaciones\\Cliente.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Domain\\Operaciones\\Cliente.cs",
+              "RelativeToolTip": "Employees.Domain\\Operaciones\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:26:03.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250825201520_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20250825201520_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Data\\Migrations\\20250825201520_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\20250825201520_InitialCreate.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Data\\Migrations\\20250825201520_InitialCreate.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:30:16.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Employees.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.API\\appsettings.Development.json",
+              "RelativeToolTip": "Employees.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T05:15:42.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:31:13.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\Operaciones\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Repositories\\Operaciones\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Repositories\\Operaciones\\PersonaRepository.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Repositories\\Operaciones\\PersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:31:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Specification\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Specification\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Specification\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Specification\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:25:22.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\MainDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Data\\Migrations\\MainDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\inmobiliaria-empleados\\Employees.Infrastructure\\Data\\Migrations\\MainDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Data\\Migrations\\MainDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:30:39.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

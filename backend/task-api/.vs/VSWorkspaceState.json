@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Tasks.API",
+    "\\Tasks.API\\Controllers",
+    "\\Tasks.Application",
+    "\\Tasks.Application\\DTOs",
+    "\\Tasks.Application\\Response"
+  ],
+  "SelectedNode": "\\Tasks.Application\\DTOs\\TaskDto.cs",
+  "PreviewInSolutionExplorer": false
+}

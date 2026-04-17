@@ -1,0 +1,62 @@
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.csproj.AssemblyReference.cache
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.AssemblyInfoInputs.cache
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.AssemblyInfo.cs
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.sourcelink.json
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\appsettings.Development.json
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\appsettings.json
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.deps.json
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.runtimeconfig.json
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Application.dll
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Domain.dll
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Application.pdb
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\bin\Debug\net8.0\Tasks.Domain.pdb
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.In.E44DA345.Up2Date
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\refint\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.pdb
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.genruntimeconfig.cache
+D:\Backend Reto\erp-task-api\Storage.Infrastructure\obj\Debug\net8.0\ref\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.csproj.AssemblyReference.cache
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.AssemblyInfoInputs.cache
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.AssemblyInfo.cs
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.sourcelink.json
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\refint\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.pdb
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.deps.json
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.runtimeconfig.json
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Application.dll
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Application.pdb
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.In.E44DA345.Up2Date
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.genruntimeconfig.cache
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\ref\Tasks.Infrastructure.dll
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Domain.dll
+D:\Backend Reto\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Domain.pdb
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.deps.json
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.runtimeconfig.json
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.dll
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Application.dll
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Domain.dll
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Application.pdb
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\bin\Debug\net8.0\Tasks.Domain.pdb
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.AssemblyInfo.cs
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.sourcelink.json
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.In.E44DA345.Up2Date
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.dll
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\refint\Tasks.Infrastructure.dll
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.pdb
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\Tasks.Infrastructure.genruntimeconfig.cache
+C:\Users\rxlf\Desktop\ddd\Ralf prueba tecnica\erp-task-api\Tasks.Infrastructure\obj\Debug\net8.0\ref\Tasks.Infrastructure.dll

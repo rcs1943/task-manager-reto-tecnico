@@ -1,0 +1,16 @@
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\bin\Debug\net8.0\Employees.Application.deps.json
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\bin\Debug\net8.0\Employees.Application.dll
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\bin\Debug\net8.0\Employees.Application.pdb
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\bin\Debug\net8.0\Employees.Domain.dll
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\bin\Debug\net8.0\Employees.Domain.pdb
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.csproj.AssemblyReference.cache
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.AssemblyInfoInputs.cache
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.AssemblyInfo.cs
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.sourcelink.json
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employee.1547ACAE.Up2Date
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.dll
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\refint\Employees.Application.dll
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\Employees.Application.pdb
+C:\Users\kenny\Source\Repos\inmobiliaria-empleados\Employees.Application\obj\Debug\net8.0\ref\Employees.Application.dll
