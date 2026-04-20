@@ -49,7 +49,7 @@ Modificar la propiedad `DefaultConnection` según tu entorno:
 }
 ```
 
-## 3. Ejecutar el siguiente comando estando en el root de task-api:
+3. Ejecutar el siguiente comando estando en el root de task-api:
 
 ```
 dotnet run --project ./Tasks.API
