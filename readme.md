@@ -33,13 +33,29 @@ Este script realizará lo siguiente:
 backend/task-api
 ```
 
-2. Ejecutar el siguiente comando:
+2. Configurar la cadena de conexión a la base de datos:
+
+Ubicar el archivo:
 
 ```
-dotnet run
+Tasks.API/appsettings.json
 ```
 
-3. El backend se ejecutará en: http://localhost:1048
+Modificar la propiedad `DefaultConnection` según tu entorno:
+
+```json
+"ConnectionStrings": {
+  "DefaultConnection": "Host=localhost;Port=5432;Database=task_management_db;Username=postgres;Password=postgres"
+}
+```
+
+## 3. Ejecutar el siguiente comando estando en el root de task-api:
+
+```
+dotnet run --project ./Tasks.API
+```
+
+4. El backend se ejecutará en: http://localhost:1048
 
 ---
 

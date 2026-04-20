@@ -1,6 +1,0 @@
-D:\Backend Reto\erp-task-api\Storage.Application\obj\Debug\net8.0\Task.Application.csproj.AssemblyReference.cache
-D:\Backend Reto\erp-task-api\Storage.Application\obj\Debug\net8.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\Backend Reto\erp-task-api\Storage.Application\obj\Debug\net8.0\Task.Application.AssemblyInfoInputs.cache
-D:\Backend Reto\erp-task-api\Storage.Application\obj\Debug\net8.0\Task.Application.AssemblyInfo.cs
-D:\Backend Reto\erp-task-api\Storage.Application\obj\Debug\net8.0\Task.Application.csproj.CoreCompileInputs.cache
-D:\Backend Reto\erp-task-api\Storage.Application\obj\Debug\net8.0\Task.Application.sourcelink.json
