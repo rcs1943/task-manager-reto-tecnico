@@ -26,7 +26,6 @@ const TaskDetail = ({ taskId }: Props) => {
         <>
           {task ? (
             <>
-              {" "}
               <Text className="text-7xl font-medium text-headerColor">
                 {task?.title}
               </Text>
